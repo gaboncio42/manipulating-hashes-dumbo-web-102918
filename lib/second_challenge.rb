@@ -8,6 +8,8 @@ def second_challenge
 
   #code your solution here!
 
+  flattened_array = []
   
+  groceries.each do |key, value|
 
 end
