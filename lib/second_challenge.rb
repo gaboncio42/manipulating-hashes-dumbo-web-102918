@@ -8,7 +8,7 @@ def second_challenge
 
   #code your solution here!
 
-  flattened_array = []
+  
   groceries_values = groceries.values
   flattened_array = groceries_values.flatten
   
