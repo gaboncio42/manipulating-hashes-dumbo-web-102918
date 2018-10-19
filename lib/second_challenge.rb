@@ -11,7 +11,7 @@ def second_challenge
   flattened_array = []
   
   groceries.each do |key, value|
-    flattened_array << value.values
+    flattened_array << key.values
   end
   
   flattened_array
